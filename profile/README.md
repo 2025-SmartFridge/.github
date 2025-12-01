@@ -1,10 +1,3 @@
-<a href="https://club-project-one.vercel.app/" target="_blank">
-<img src="https://github.com/user-attachments/assets/daa622b9-7c69-4786-8db3-4996b7f140be" alt="배너" width="100%"/>
-</a>
-
-<br/>
-<br/>
-
 # 0. Getting Started (시작하기)
 ```bash
 $ npm start
@@ -15,17 +8,17 @@ $ npm start
 <br/>
 
 # 1. Project Overview (프로젝트 개요)
-- 프로젝트 이름: 모여봐요 동아리숲!
-- 프로젝트 설명: 전국 대학 동아리 일정관리 및 홍보 커뮤니티
+- 프로젝트 이름: SMARTFRIDGE 냉슐랭
+- 프로젝트 설명: 스마트 냉장고 관리 및 AI 레시피 추천 앱
 
 <br/>
 <br/>
 
 # 2. Team Members (팀원 및 팀 소개)
-| 이동규 | 신유승 | 김나연 | 이승준 |
+| 구자혁 | 지경태 | 류호찬 | 허성재 |
 |:------:|:------:|:------:|:------:|
-| <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="이동규" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="신유승" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="김나연" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이승준" width="150"> |
-| PL | FE | FE | FE |
+| <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="구자혁" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="지경태" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="류호찬" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="허성재" width="150"> |
+| BE | BE | FE | FE |
 | [GitHub](https://github.com/LDK1009) | [GitHub](https://github.com/SinYusi) | [GitHub](https://github.com/nay3on) | [GitHub](https://github.com/conconcc) |
 
 <br/>
@@ -318,3 +311,4 @@ UI개발을 위한 라이브러리 styled-components 설치
 # 10. 컨벤션 수행 결과
 <img width="100%" alt="코드 컨벤션" src="https://github.com/user-attachments/assets/0dc218c0-369f-45d2-8c6d-cdedc81169b4">
 <img width="100%" alt="깃플로우" src="https://github.com/user-attachments/assets/2a4d1332-acc2-4292-9815-d122f5aea77c">
+
