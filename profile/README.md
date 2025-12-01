@@ -1,8 +1,10 @@
 # 0. Getting Started (시작하기)
 ```bash
-$ npm start
+백엔드: gradlew bootRun
+
+앱(Flutter): flutter run
 ```
-[서비스 링크](https://club-project-one.vercel.app/)
+
 
 <br/>
 <br/>
@@ -19,7 +21,7 @@ $ npm start
 |:------:|:------:|:------:|:------:|
 | <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="구자혁" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="지경태" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="류호찬" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="허성재" width="150"> |
 | BE | BE | FE | FE |
-| [GitHub](https://github.com/LDK1009) | [GitHub](https://github.com/SinYusi) | [GitHub](https://github.com/nay3on) | [GitHub](https://github.com/conconcc) |
+| [GitHub](https://github.com/JaHyeok2002) | [GitHub](https://github.com/JiKyeongtae) | [GitHub](https://github.com/ryuhochan0406) | [GitHub](https://github.com/SJ01-max) |
 
 <br/>
 <br/>
@@ -31,23 +33,19 @@ $ npm start
 - **로그인**:
   - 사용자 인증 정보를 통해 로그인합니다.
 
-- **내 동아리 일정관리**:
-  - 캘린더 UI를 통해 동아리 관련 일정 추가&삭제가 가능합니다.
-  - 체크박스를 통해 종료되거나 이미 수행한 일정을 표시할 수 있습니다.
+- **AI레시피 추천**:
+  - AI를 통해 현재 냉장/냉동고 안에 있는 재료들로 만들 수 있는 간단한 요리를 추천해줍니다.
 
-- **동아리 찾기**:
-  - 대학 내 동아리를 검색할 수 있습니다.
-  - 검색 시 해당 동아리가 업로드한 홍보글이 보여집니다.
+- **나의 냉장고**:
+  - 냉장/냉동고에 재료를 추가합니다.
+  - 재료에 대한 정보를 자세히 보여줍니다. (수량, 유통기한, 이미지)
+ 
+- **장바구니**:
+  - 마트에서 구입할 재료를 장바구니에 추가 할 수 있습니다.
+  - 구매 완료 시 냉장/냉동고에 추가 할 수 있습니다.
 
-- **동아리 홍보**:
-  - 홍보글 등록을 통해 동아리를 홍보할 수 있습니다.
-
-- **동아리 만들기**:
-  - 새로운 동아리를 만들어 관리할 수 있습니다.
-
-- **동아리 프로필**:
-  - 동아리 홍보글에서 동아리 이름(링크)를 클릭하면 해당 동아리 프로필로 이동합니다.
-  - 동아리 프로필에서는 동아리 소개, 동아리 활동사진 갤러리, 동아리 홍보글 기록관 등을 볼 수 있습니다.
+- **주변 마트 찾기**:
+  - GOOGLE 맵을 사용해 내 위치 주변 마트 위치를 확인할 수 있습니다.
 
 <br/>
 <br/>
@@ -55,11 +53,12 @@ $ npm start
 # 4. Tasks & Responsibilities (작업 및 역할 분담)
 |  |  |  |
 |-----------------|-----------------|-----------------|
-| 이동규    |  <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="이동규" width="100"> | <ul><li>프로젝트 계획 및 관리</li><li>팀 리딩 및 커뮤니케이션</li><li>커스텀훅 개발</li></ul>     |
-| 신유승   |  <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="신유승" width="100">| <ul><li>메인 페이지 개발</li><li>동아리 만들기 페이지 개발</li><li>커스텀훅 개발</li></ul> |
-| 김나연   |  <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="김나연" width="100">    |<ul><li>홈 페이지 개발</li><li>로그인 페이지 개발</li><li>동아리 찾기 페이지 개발</li><li>동아리 프로필 페이지 개발</li><li>커스텀훅 개발</li></ul>  |
-| 이승준    |  <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이승준" width="100">    | <ul><li>회원가입 페이지 개발</li><li>마이 프로필 페이지 개발</li><li>커스텀훅 개발</li></ul>    |
+| 구자혁    |  <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="구자혁" width="100"> | <ul><li>회원가입, 로그인 구현</li><li>냉장/냉동고 기능 구현</li><li>장바구니 기능 구현</li></ul>     |
+| 지경태   |  <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="지경태" width="100">| <ul><li>홈 화면 기능 구현</li><li>AI레시피 추천 기능 구현</li><li>마이페이지 기능 구현</li></ul> |
+| 류호찬   |  <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="류호찬" width="100">    |<ul><li>여기는</li><li>나는</li><li>아직</li><li>몰라</li><li>헤헤</li></ul>  |
+| 허성재    |  <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="허성재" width="100">    | <ul><li>여기는</li><li>아직</li><li>몰라라</li></ul>    |
 
+_____________________________________________________________________________________________일단 여기까지 완료__________________________________________________________________________________________________________________________
 <br/>
 <br/>
 
@@ -311,4 +310,5 @@ UI개발을 위한 라이브러리 styled-components 설치
 # 10. 컨벤션 수행 결과
 <img width="100%" alt="코드 컨벤션" src="https://github.com/user-attachments/assets/0dc218c0-369f-45d2-8c6d-cdedc81169b4">
 <img width="100%" alt="깃플로우" src="https://github.com/user-attachments/assets/2a4d1332-acc2-4292-9815-d122f5aea77c">
+
 
