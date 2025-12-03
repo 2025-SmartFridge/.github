@@ -10,7 +10,7 @@
 <br/>
 
 # 1. Project Overview (프로젝트 개요)
-- 프로젝트 이름: SMARTFRIDGE 냉슐랭
+- 프로젝트 이름: SmartFridge 냉슐랭
 - 프로젝트 설명: 스마트 냉장고 관리 및 AI 레시피 추천 앱
 
 <br/>
@@ -19,7 +19,7 @@
 # 2. Team Members (팀원 및 팀 소개)
 | 구자혁 | 지경태 | 류호찬 | 허성재 |
 |:------:|:------:|:------:|:------:|
-| <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="구자혁" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="지경태" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="류호찬" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="허성재" width="150"> |
+| <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="구자혁" width="150"> | <img src="https://github.com/user-attachments/assets/4324d121-48f1-44c5-a26f-e5e927ff97bd" alt="지경태" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="류호찬" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="허성재" width="150"> |
 | BE | BE | FE | FE |
 | [GitHub](https://github.com/JaHyeok2002) | [GitHub](https://github.com/JiKyeongtae) | [GitHub](https://github.com/ryuhochan0406) | [GitHub](https://github.com/SJ01-max) |
 
@@ -54,37 +54,41 @@
 |  |  |  |
 |-----------------|-----------------|-----------------|
 | 구자혁    |  <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="구자혁" width="100"> | <ul><li>회원가입, 로그인 구현</li><li>냉장/냉동고 기능 구현</li><li>장바구니 기능 구현</li></ul>     |
-| 지경태   |  <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="지경태" width="100">| <ul><li>홈 화면 기능 구현</li><li>AI레시피 추천 기능 구현</li><li>마이페이지 기능 구현</li></ul> |
+| 지경태   |  <img src="https://github.com/user-attachments/assets/4324d121-48f1-44c5-a26f-e5e927ff97bd" alt="지경태" width="100">| <ul><li>홈 화면 기능 구현</li><li>AI레시피 추천 기능 구현</li><li>마이페이지 기능 구현</li></ul> |
 | 류호찬   |  <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="류호찬" width="100">    |<ul><li>여기는</li><li>나는</li><li>아직</li><li>몰라</li><li>헤헤</li></ul>  |
 | 허성재    |  <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="허성재" width="100">    | <ul><li>여기는</li><li>아직</li><li>몰라라</li></ul>    |
 
-_____________________________________________________________________________________________일단 여기까지 완료__________________________________________________________________________________________________________________________
-<br/>
+
 <br/>
 
 # 5. Technology Stack (기술 스택)
 ## 5.1 Language
 |  |  |
 |-----------------|-----------------|
-| Java    |<img src="https://github.com/user-attachments/assets/2e122e74-a28b-4ce7-aff6-382959216d31" alt="JAVA" width="100">| 
-| Dart    |   <img src="https://github.com/user-attachments/assets/c531b03d-55a3-40bf-9195-9ff8c4688f13" alt="CSS3" width="100">|
+| Java    |   <img src="https://github.com/user-attachments/assets/60140ded-2ac1-41d7-9db2-ae26fc9de43a" alt="JAVA" width="100">| 
+| Dart    |   <img src="https://github.com/user-attachments/assets/cdd511f1-7bc1-494f-94da-906ac82dbc5c" alt="DART" width="100">|
+
 
 <br/>
+<h1>프론트 알아서 수정하시고</h1>
 
 ## 5.2 Frotend
 |  |  |  |
 |-----------------|-----------------|-----------------|
-| React    |  <img src="https://github.com/user-attachments/assets/e3b49dbb-981b-4804-acf9-012c854a2fd2" alt="React" width="100"> | 18.3.1    |
-| StyledComponents    |  <img src="https://github.com/user-attachments/assets/c9b26078-5d79-40cc-b120-69d9b3882786" alt="StyledComponents" width="100">| 6.1.12   |
-| MaterialUI    |  <img src="https://github.com/user-attachments/assets/75a46fa7-ebc0-4a9d-b648-c589f87c4b55" alt="MUI" width="100">    | 5.0.0  |
-| DayJs    |  <img src="https://github.com/user-attachments/assets/3632d7d6-8d43-4dd5-ba7a-501a2bc3a3e4" alt="DayJs" width="100">    | 1.11.12    |
+| 000    |  <img src="https://github.com/user-attachments/assets/e3b49dbb-981b-4804-acf9-012c854a2fd2" alt="React" width="100"> | 000000   |
+| 000    |  <img src="https://github.com/user-attachments/assets/c9b26078-5d79-40cc-b120-69d9b3882786" alt="StyledComponents" width="100">| 000000   |
+| 000    |  <img src="https://github.com/user-attachments/assets/75a46fa7-ebc0-4a9d-b648-c589f87c4b55" alt="MUI" width="100">    | 000000  |
+| 000    |  <img src="https://github.com/user-attachments/assets/3632d7d6-8d43-4dd5-ba7a-501a2bc3a3e4" alt="DayJs" width="100">    | 000000    |
 
 <br/>
 
 ## 5.3 Backend
 |  |  |  |
 |-----------------|-----------------|-----------------|
-| Firebase    |  <img src="https://github.com/user-attachments/assets/1694e458-9bb0-4a0b-8fe6-8efc6e675fa1" alt="Firebase" width="100">    | 10.12.5    |
+| SpringBoot    |  <img src="https://github.com/user-attachments/assets/4937976f-8466-4a71-80c4-7e5bc21d5aff" alt="SpringBoot" width="100">    | 버전은 추후 작성    |
+| SpringDataJPA    |  <img src="https://github.com/user-attachments/assets/c245860e-c53e-4595-8d38-3623db5055a7" alt="SpringDataJPA" width="100">    | 버전은 추후 작성    |
+| SpringSecurity   |  <img src="https://github.com/user-attachments/assets/ef455654-d04b-4add-b77e-4a2f3fde8182" alt="SpringSecurity" width="100">    | 버전은 추후 작성    |
+| Google Gemini API    |  <img src="https://github.com/user-attachments/assets/4c690fd4-721b-4303-af31-aa4dbcc641ea" alt="Google Gemini API" width="100">    | 버전은 추후 작성    |
 
 <br/>
 
@@ -92,10 +96,12 @@ ________________________________________________________________________________
 |  |  |
 |-----------------|-----------------|
 | Git    |  <img src="https://github.com/user-attachments/assets/483abc38-ed4d-487c-b43a-3963b33430e6" alt="git" width="100">    |
-| Git Kraken    |  <img src="https://github.com/user-attachments/assets/32c615cb-7bc0-45cd-91ea-0d1450bfc8a9" alt="git kraken" width="100">    |
+| Figma    |  <img src="https://github.com/user-attachments/assets/00eca926-1fb1-46ce-86e8-35119c519ce0" alt="figma" width="100">    |
 | Notion    |  <img src="https://github.com/user-attachments/assets/34141eb9-deca-416a-a83f-ff9543cc2f9a" alt="Notion" width="100">    |
 
 <br/>
+
+<h1>____________________여기까지 수정 완료________________________</h1>
 
 # 6. Project Structure (프로젝트 구조)
 ```plaintext
@@ -309,6 +315,7 @@ UI개발을 위한 라이브러리 styled-components 설치
 # 10. 컨벤션 수행 결과
 <img width="100%" alt="코드 컨벤션" src="https://github.com/user-attachments/assets/0dc218c0-369f-45d2-8c6d-cdedc81169b4">
 <img width="100%" alt="깃플로우" src="https://github.com/user-attachments/assets/2a4d1332-acc2-4292-9815-d122f5aea77c">
+
 
 
 
