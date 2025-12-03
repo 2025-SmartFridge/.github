@@ -103,11 +103,18 @@
 <br/>
 
 # 6. API 명세서
-|  |  |
-|-----------------|-----------------|
-<img width="518" height="500" alt="image" src="https://github.com/user-attachments/assets/893fc270-6a96-499f-b456-3f9e5b481120" />
-<br/>
-[👉 자세한 내용은 Notion에서 보기] (https://soapy-margin-f62.notion.site/API-SmartFridge-2a79637693dc80b3834ef754fb8ee322?source=copy_link)
+
+<p>
+  <img src="https://github.com/user-attachments/assets/893fc270-6a96-499f-b456-3f9e5b481120"
+       alt="API 기본 명세서 (SmartFridge)"
+       width="600" />
+</p>
+
+<p>
+  🔗 <a href="https://soapy-margin-f62.notion.site/API-SmartFridge-2a79637693dc80b3834ef754fb8ee322?source=copy_link">
+    자세한 내용은 Notion에서 보기
+  </a>
+</p>
 
 <h1>____________________여기까지 수정 완료________________________</h1>
 
@@ -323,6 +330,7 @@ UI개발을 위한 라이브러리 styled-components 설치
 # 10. 컨벤션 수행 결과
 <img width="100%" alt="코드 컨벤션" src="https://github.com/user-attachments/assets/0dc218c0-369f-45d2-8c6d-cdedc81169b4">
 <img width="100%" alt="깃플로우" src="https://github.com/user-attachments/assets/2a4d1332-acc2-4292-9815-d122f5aea77c">
+
 
 
 
