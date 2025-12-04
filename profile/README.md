@@ -85,11 +85,11 @@
 ## 5.3 Backend
 |  |  |  |
 |-----------------|-----------------|-----------------|
-| SpringBoot    |  <img src="https://github.com/user-attachments/assets/4937976f-8466-4a71-80c4-7e5bc21d5aff" alt="SpringBoot" width="100">    | 버전은 추후 작성    |
-| SpringDataJPA    |  <img src="https://github.com/user-attachments/assets/c245860e-c53e-4595-8d38-3623db5055a7" alt="SpringDataJPA" width="100">    | 버전은 추후 작성    |
-| SpringSecurity   |  <img src="https://github.com/user-attachments/assets/ef455654-d04b-4add-b77e-4a2f3fde8182" alt="SpringSecurity" width="100">    | 버전은 추후 작성    |
-| H2 Database   |  <img src="https://github.com/user-attachments/assets/6598b89f-9e98-4898-96fe-b44b300528d5" alt="H2" width="100">    | 버전은 추후 작성    |
-| Google Gemini API    |  <img src="https://github.com/user-attachments/assets/4c690fd4-721b-4303-af31-aa4dbcc641ea" alt="Google Gemini API" width="100">    | 버전은 추후 작성    |
+| SpringBoot    |  <img src="https://github.com/user-attachments/assets/4937976f-8466-4a71-80c4-7e5bc21d5aff" alt="SpringBoot" width="100">    | 3.5.6    |
+| SpringDataJPA    |  <img src="https://github.com/user-attachments/assets/c245860e-c53e-4595-8d38-3623db5055a7" alt="SpringDataJPA" width="100">    | 3.5.6    |
+| SpringSecurity   |  <img src="https://github.com/user-attachments/assets/ef455654-d04b-4add-b77e-4a2f3fde8182" alt="SpringSecurity" width="100">    | 6.5.7    |
+| H2 Database   |  <img src="https://github.com/user-attachments/assets/6598b89f-9e98-4898-96fe-b44b300528d5" alt="H2" width="100">    | 2.3.232    |
+| Google Gemini API    |  <img src="https://github.com/user-attachments/assets/4c690fd4-721b-4303-af31-aa4dbcc641ea" alt="Google Gemini API" width="100">    | gemini-2.5-flash    |
 
 <br/>
 
@@ -330,6 +330,7 @@ UI개발을 위한 라이브러리 styled-components 설치
 # 10. 컨벤션 수행 결과
 <img width="100%" alt="코드 컨벤션" src="https://github.com/user-attachments/assets/0dc218c0-369f-45d2-8c6d-cdedc81169b4">
 <img width="100%" alt="깃플로우" src="https://github.com/user-attachments/assets/2a4d1332-acc2-4292-9815-d122f5aea77c">
+
 
 
 
