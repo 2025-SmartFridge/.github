@@ -55,8 +55,8 @@
 |-----------------|-----------------|-----------------|
 | 구자혁    |  <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="구자혁" width="100"> | <ul><li>회원가입, 로그인 구현</li><li>냉장/냉동고 기능 구현</li><li>장바구니 기능 구현</li></ul>     |
 | 지경태   |  <img src="https://github.com/user-attachments/assets/4324d121-48f1-44c5-a26f-e5e927ff97bd" alt="지경태" width="100">| <ul><li>홈 화면 기능 구현</li><li>AI레시피 추천 기능 구현</li><li>마이페이지 기능 구현</li></ul> |
-| 류호찬   |  <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="류호찬" width="100">    |<ul><li>주요 화면 UI/UX 설계</li><li>화면별 UI 컴포넌트 개발</li><li>앱 디자인 시스템 구축</li><li>네이게이션 구조 및 사용자 흐름 설계</li><li>지도 화면 UI 개발 및 마커/경로 표시 기능 구현</li></ul>  |
-| 허성재    |  <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="허성재" width="100">    |<ul><li>주요 화면 UI/UX 설계</li><li>화면별 UI 컴포넌트 개발</li><li>앱 디자인 시스템 구축</li><li>네이게이션 구조 및 사용자 흐름 설계</li></ul>  |
+| 류호찬   |  <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="류호찬" width="100">    |<ul><li>주요 화면 UI/UX 설계</li><li>화면별 UI 컴포넌트 개발</li><li>앱 디자인 시스템 구축</li><li>네비게이션 구조 및 사용자 흐름 설계</li><li>지도 화면 UI 개발 및 마커/경로 표시 기능 구현</li></ul>  |
+| 허성재    |  <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="허성재" width="100">    |<ul><li>주요 화면 UI/UX 설계</li><li>화면별 UI 컴포넌트 개발</li><li>앱 디자인 시스템 구축</li><li>네비게이션 구조 및 사용자 흐름 설계</li></ul>  |
 
 
 <br/>
@@ -73,13 +73,12 @@
 <h1>프론트 알아서 수정하시고</h1>
 
 ## 5.2 Frotend
-|  |  |  |
-|-----------------|-----------------|-----------------|
-| 000    |  <img src="https://github.com/user-attachments/assets/e3b49dbb-981b-4804-acf9-012c854a2fd2" alt="React" width="100"> | 000000   |
-| 000    |  <img src="https://github.com/user-attachments/assets/c9b26078-5d79-40cc-b120-69d9b3882786" alt="StyledComponents" width="100">| 000000   |
-| 000    |  <img src="https://github.com/user-attachments/assets/75a46fa7-ebc0-4a9d-b648-c589f87c4b55" alt="MUI" width="100">    | 000000  |
-| 000    |  <img src="https://github.com/user-attachments/assets/3632d7d6-8d43-4dd5-ba7a-501a2bc3a3e4" alt="DayJs" width="100">    | 000000    |
-
+| 기술 | 아이콘 | 용도 |
+|------|--------|------|
+| Flutter | <img width="173" height="152" alt="image" src="https://github.com/user-attachments/assets/cf14255a-5701-4ecf-a3bc-ae22311cdd53" /> | 크로스 플랫폼 모바일 앱 개발 |
+| Dart | <img width="235" height="130" alt="image" src="https://github.com/user-attachments/assets/744258af-f5cf-4b6e-b83f-b930ddadcb13" /> | Flutter 앱 개발 언어 |
+| Firebase Auth | <img width="152" height="156" alt="image" src="https://github.com/user-attachments/assets/a241a0b1-907f-4fe3-b129-e32bd4284a2b" /> | 사용자 인증 (이메일/구글 로그인) |
+| Google Maps Flutter | <img width="133" height="125" alt="image" src="https://github.com/user-attachments/assets/f69dbe66-bcbb-42d7-863a-182b8c2793c2" /> | 지도 표시 및 위치 기반 기능 |
 <br/>
 
 ## 5.3 Backend
@@ -330,6 +329,7 @@ UI개발을 위한 라이브러리 styled-components 설치
 # 10. 컨벤션 수행 결과
 <img width="100%" alt="코드 컨벤션" src="https://github.com/user-attachments/assets/0dc218c0-369f-45d2-8c6d-cdedc81169b4">
 <img width="100%" alt="깃플로우" src="https://github.com/user-attachments/assets/2a4d1332-acc2-4292-9815-d122f5aea77c">
+
 
 
 
