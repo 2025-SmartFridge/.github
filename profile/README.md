@@ -55,8 +55,8 @@
 |-----------------|-----------------|-----------------|
 | 구자혁    |  <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="구자혁" width="100"> | <ul><li>회원가입, 로그인 구현</li><li>냉장/냉동고 기능 구현</li><li>장바구니 기능 구현</li></ul>     |
 | 지경태   |  <img src="https://github.com/user-attachments/assets/4324d121-48f1-44c5-a26f-e5e927ff97bd" alt="지경태" width="100">| <ul><li>홈 화면 기능 구현</li><li>AI레시피 추천 기능 구현</li><li>마이페이지 기능 구현</li></ul> |
-| 류호찬   |  <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="류호찬" width="100">    |<ul><li>여기는</li><li>나는</li><li>아직</li><li>몰라</li><li>헤헤</li></ul>  |
-| 허성재    |  <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="허성재" width="100">    | <ul><li>여기는</li><li>아직</li><li>몰라라</li></ul>    |
+| 류호찬   |  <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="류호찬" width="100">    |<ul><li>주요 화면 UI/UX 설계</li><li>화면별 UI 컴포넌트 개발</li><li>앱 디자인 시스템 구축</li><li>네이게이션 구조 및 사용자 흐름 설계</li><li>지도 화면 UI 개발 및 마커/경로 표시 기능 구현</li></ul>  |
+| 허성재    |  <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="허성재" width="100">    |<ul><li>주요 화면 UI/UX 설계</li><li>화면별 UI 컴포넌트 개발</li><li>앱 디자인 시스템 구축</li><li>네이게이션 구조 및 사용자 흐름 설계</li></ul>  |
 
 
 <br/>
@@ -330,6 +330,7 @@ UI개발을 위한 라이브러리 styled-components 설치
 # 10. 컨벤션 수행 결과
 <img width="100%" alt="코드 컨벤션" src="https://github.com/user-attachments/assets/0dc218c0-369f-45d2-8c6d-cdedc81169b4">
 <img width="100%" alt="깃플로우" src="https://github.com/user-attachments/assets/2a4d1332-acc2-4292-9815-d122f5aea77c">
+
 
 
 
