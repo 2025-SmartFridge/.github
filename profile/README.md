@@ -77,7 +77,8 @@
 |------|--------|------|
 | Flutter | <img width="173" height="152" alt="image" src="https://github.com/user-attachments/assets/cf14255a-5701-4ecf-a3bc-ae22311cdd53" /> | 크로스 플랫폼 모바일 앱 개발 |
 | Dart | <img width="235" height="130" alt="image" src="https://github.com/user-attachments/assets/744258af-f5cf-4b6e-b83f-b930ddadcb13" /> | Flutter 앱 개발 언어 |
-| Firebase Auth | <img width="152" height="156" alt="image" src="https://github.com/user-attachments/assets/a241a0b1-907f-4fe3-b129-e32bd4284a2b" /> | 사용자 인증 (이메일/구글 로그인) |
+| Google cloude console | <img width="152" height="156" alt="image" src="https://github.com/user-attachments/assets/a241a0b1-907f-4fe3-b129-e32bd4284a2b" /> | 사용자 인증 (이메일/구글 로그인) |
+| kakao developer | <img width="152" height="156" alt="image" src="https://github.com/user-attachments/assets/a241a0b1-907f-4fe3-b129-e32bd4284a2b" /> | 사용자 인증 (이메일/카카오 로그인) |
 | Google Maps Flutter | <img width="133" height="125" alt="image" src="https://github.com/user-attachments/assets/f69dbe66-bcbb-42d7-863a-182b8c2793c2" /> | 지도 표시 및 위치 기반 기능 |
 <br/>
 
@@ -371,6 +372,7 @@ UI개발을 위한 라이브러리 styled-components 설치
 # 10. 컨벤션 수행 결과
 <img width="100%" alt="코드 컨벤션" src="https://github.com/user-attachments/assets/0dc218c0-369f-45d2-8c6d-cdedc81169b4">
 <img width="100%" alt="깃플로우" src="https://github.com/user-attachments/assets/2a4d1332-acc2-4292-9815-d122f5aea77c">
+
 
 
 
