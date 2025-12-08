@@ -115,9 +115,7 @@
   </a>
 </p>
 
-<h1>____________________여기까지 수정 완료________________________</h1>
-
-# 6. Project Structure (프로젝트 구조)
+# 6.1 프로젝트 구조 (프론트엔드)
 ```plaintext
 project/
 ├── public/
@@ -136,6 +134,50 @@ project/
 │   package.json         # 프로젝트 종속성 및 스크립트 정의
 ├── .gitignore               # Git 무시 파일 목록
 └── README.md                # 프로젝트 개요 및 사용법
+```
+
+<br/>
+<br/>
+
+# 6.2 프로젝트 구조 (백엔드)
+```plaintextapp/
+app/
+├── src/
+│   ├── api/                   # 외부 API 호출
+│   ├── config/                # 스프링 설정 (시큐리티, CORS 등)
+│   ├── controller/            # REST 컨트롤러 (요청 받는 곳)
+│   │     ├── auth/              # 로그인/회원 관련 API
+│   │     ├── cart/              # 장바구니 API
+│   │     ├── item/              # 냉장고 재료 API
+│   │     └── mypage/            # 마이페이지 API
+│   ├── domain/                # JPA 엔티티(테이블 매핑)
+│   │     ├── cart/              # 장바구니 엔티티
+│   │     ├── item/              # 재료/카탈로그 엔티티
+│   │     └── user/              # 유저 엔티티
+│   ├── dto/                   # 요청/응답 DTO 모음
+│   │     ├── auth/              # 인증 DTO
+│   │     ├── cart/              # 장바구니 DTO
+│   │     ├── item/              # 재료 DTO
+│   │     ├── mypage/            # 마이페이지 DTO
+│   │     ├── GeminiRequest.java   # Gemini 요청 DTO
+│   │     ├── GeminiResponse.java  # Gemini 응답 DTO
+│   │     └── RecipeResponse.java  # 레시피 응답 DTO
+│   ├── jwt/                   # JWT 토큰 관련 코드
+│   ├── repository/            # DB 접근 (JPA Repository)
+│   │     ├── cart/              # 장바구니 Repository
+│   │     ├── item/              # 재료 Repository
+│   │     └── user/              # 유저 Repository
+│   ├── seed/                  # 초기 데이터 넣는 Seeder
+│   ├── service/               # 비즈니스 로직
+│   │     ├── auth/              # 인증 서비스
+│   │     ├── cart/              # 장바구니 서비스
+│   │     ├── item/              # 재료 서비스
+│   │     ├── mypage/            # 마이페이지 서비스
+│   │     ├── user/              # 유저 서비스
+│   │     └── GemeniService.java   # Gemini 연동 서비스
+│   ├── util/                  # 공용 유틸리티
+└── SmartFridgeApplication.java    # 스프링 부트 메인 클래스
+
 ```
 
 <br/>
@@ -329,6 +371,7 @@ UI개발을 위한 라이브러리 styled-components 설치
 # 10. 컨벤션 수행 결과
 <img width="100%" alt="코드 컨벤션" src="https://github.com/user-attachments/assets/0dc218c0-369f-45d2-8c6d-cdedc81169b4">
 <img width="100%" alt="깃플로우" src="https://github.com/user-attachments/assets/2a4d1332-acc2-4292-9815-d122f5aea77c">
+
 
 
 
