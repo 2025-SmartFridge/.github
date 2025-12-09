@@ -70,7 +70,7 @@
 
 
 <br/>
-<h1>프론트 알아서 수정하시고</h1>
+
 
 ## 5.2 Frotend
 | 기술 | 아이콘 | 용도 |
@@ -284,13 +284,16 @@ app/
 ## 7.7 마이페이지
 <p align="center">
   <img src="https://github.com/user-attachments/assets/da540416-2a4b-4566-98ef-30fb7309c99a" width="250">
+  <img src="https://github.com/user-attachments/assets/701b651f-f70d-4d06-bea2-14a0b62c6510" width="250">
 </p>
 
 <p align="center">
   <b>사용자 프로필 및 찜목록 관리</b>
 </p>
 
+
 <br/><br/>
+
 
 
 
