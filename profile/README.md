@@ -75,12 +75,15 @@
 ## 5.2 Frotend
 | 기술 | 아이콘 | 용도 |
 |------|--------|------|
-| Flutter | <img width="173" height="152" alt="image" src="https://github.com/user-attachments/assets/cf14255a-5701-4ecf-a3bc-ae22311cdd53" /> | 크로스 플랫폼 모바일 앱 개발 |
-| Dart | <img width="235" height="130" alt="image" src="https://github.com/user-attachments/assets/744258af-f5cf-4b6e-b83f-b930ddadcb13" /> | Flutter 앱 개발 언어 |
-| Google cloude console | <img width="152" height="156" alt="image" src="https://github.com/user-attachments/assets/a241a0b1-907f-4fe3-b129-e32bd4284a2b" /> | 사용자 인증 (이메일/구글 로그인) |
-| kakao developer | <img width="152" height="156" alt="image" src="https://github.com/user-attachments/assets/a241a0b1-907f-4fe3-b129-e32bd4284a2b" /> | 사용자 인증 (이메일/카카오 로그인) |
-| Google Maps Flutter | <img width="133" height="125" alt="image" src="https://github.com/user-attachments/assets/f69dbe66-bcbb-42d7-863a-182b8c2793c2" /> | 지도 표시 및 위치 기반 기능 |
+| Flutter | <img width="100" alt="Flutter" src="https://github.com/user-attachments/assets/cf14255a-5701-4ecf-a3bc-ae22311cdd53" /> | 크로스 플랫폼 모바일 앱 개발 |
+| Dart | <img width="100" alt="Dart" src="https://github.com/user-attachments/assets/744258af-f5cf-4b6e-b83f-b930ddadcb13" /> | Flutter 앱 개발 언어 |
+| Google cloude console | <img width="100" alt="Google Cloud" src="https://github.com/user-attachments/assets/5b9ca576-bd4a-46f9-b11e-5a2fe7ad5118" /> | 사용자 인증 (이메일/구글 로그인) |
+| kakao developer | <img width="100" alt="Kakao Login" src="https://github.com/user-attachments/assets/e5db5d07-6121-4900-abc8-19545c758dfb" /> | 사용자 인증 (이메일/카카오 로그인) |
+| Google Maps Flutter | <img width="100" alt="Google Maps" src="https://github.com/user-attachments/assets/f69dbe66-bcbb-42d7-863a-182b8c2793c2" /> | 지도 표시 및 위치 기반 기능 |
 <br/>
+
+
+
 
 ## 5.3 Backend
 |  |  |  |
@@ -185,6 +188,110 @@ app/
 <br/>
 
 # 7. 실제 화면 구성
+
+## 7.1 로그인 & 온보딩
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/afcbc552-813f-4ea6-bf8f-d95aec1ffb9f" width="200">
+  <img src="https://github.com/user-attachments/assets/4ab92837-9bac-438f-8cfe-f012a77cafca" width="200">
+  <img src="https://github.com/user-attachments/assets/c8e30054-963c-4c05-b427-211cf0c1a5f9" width="200">
+  <img src="https://github.com/user-attachments/assets/9555c159-9d66-4415-9b5a-678898a2c905" width="200">
+</p>
+
+
+<p align="center">
+  <b>로그인 및 회원가입 화면</b><br/>
+  Firebase Auth 기반 이메일/비밀번호 및 소셜 로그인 지원
+</p>
+
+<br/><br/>
+
+## 7.2 홈 화면 & 추천 레시피
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/692ef07a-bc6d-4526-9da5-43fa71001a87" width="200">
+  <img src="https://github.com/user-attachments/assets/ee2d1997-1690-425d-8ffd-14cffe0cb44f" width="200">
+  <img src="https://github.com/user-attachments/assets/5f88ba0e-e93e-456d-9183-c151173e4a4f" width="200">
+</p>
+
+
+
+
+<p align="center">
+  <b>홈 화면 및 AI 레시피 추천 기능</b><br/>
+  현재 냉장고 속 재료를 기반으로 Gemini AI가 가능한 요리를 추천
+</p>
+
+<br/><br/>
+
+## 7.3 레시피 & 요리하기
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0e9aa261-418e-4b44-8b82-d5f300912545" width="250">
+  <img src="https://github.com/user-attachments/assets/f7d06e47-e112-48a4-8494-b9b87386eac9" width="250">
+  <img src="https://github.com/user-attachments/assets/ec56d49e-fe89-4c55-9e3e-f131a1ecaf92" width="250">
+</p>
+
+
+
+<p align="center">
+  <b>레시피 조회 및 요리 가이드 화면</b><br/>
+  사용자는 레시피 목록에서 원하는 요리를 선택해 상세 정보를 확인할 수 있으며,<br/>
+  조리 단계별 안내 화면을 통해 요리를 쉽게 따라 할 수 있습니다.
+</p>
+
+
+<br/><br/>
+
+## 7.4 나의 냉장고
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e621f73a-b5b3-44b8-92be-d1f3285a26d7" width="250">
+  <img src="https://github.com/user-attachments/assets/30fcc7ea-7779-416e-ac82-33aab101dd92" width="250">
+</p>
+
+
+<p align="center">
+  <b>냉장/냉동고 재료 관리 기능</b><br/>
+  재료 수량, 유통기한, 이미지 등 상세 정보 확인 가능
+</p>
+
+<br/><br/>
+
+## 7.5 주변 마트 찾기 (Google Maps)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aacfea1d-4456-4cf0-8c84-44edce4496ad" width="250">
+</p>
+
+
+<p align="center">
+  <b>Google Maps 기반 주변 마트 검색</b><br/>
+  현재 위치 주변 마트 확인 및 상세 정보 표시
+</p>
+
+<br/><br/>
+
+## 7.6 장바구니
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d89d3b57-cd1e-47ad-923b-3c8dce87509f" width="250">
+  <img src="이미지_경로/cart_to_fridge.png" width="250">
+</p>
+
+
+<p align="center">
+  <b>장바구니 기능</b><br/>
+  구매 예정 재료 저장 및 구매 완료 시 냉장고로 이동 가능
+</p>
+
+<br/><br/>
+
+## 7.7 마이페이지
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/da540416-2a4b-4566-98ef-30fb7309c99a" width="250">
+</p>
+
+<p align="center">
+  <b>사용자 프로필 및 찜목록 관리</b>
+</p>
+
+<br/><br/>
+
 
 
 
