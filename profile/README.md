@@ -177,7 +177,7 @@ smartfridge/
 │   │
 │   ├── Widget/
 │   │   └── BottomIcon/
-│   │       └── Bottom_Icon_Bar.dart       # 하단 네비게이션 바
+│── │       └── Bottom_Icon_Bar.dart       # 하단 네비게이션 바
 ```
 <br/>
 
@@ -331,6 +331,7 @@ app/
 
 
 <br/><br/>
+
 
 
 
