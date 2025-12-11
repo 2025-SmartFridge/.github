@@ -120,27 +120,65 @@
 </p>
 
 # 6.1 프로젝트 구조 (프론트엔드)
-```plaintext
-project/
-├── public/
-│   ├── index.html           # HTML 템플릿 파일
-│   └── favicon.ico          # 아이콘 파일
-├── src/
-│   ├── assets/              # 이미지, 폰트 등 정적 파일
-│   ├── components/          # 재사용 가능한 UI 컴포넌트
-│   ├── hooks/               # 커스텀 훅 모음
-│   ├── pages/               # 각 페이지별 컴포넌트
-│   ├── App.js               # 메인 애플리케이션 컴포넌트
-│   ├── index.js             # 엔트리 포인트 파일
-│   ├── index.css            # 전역 css 파일
-│   ├── firebaseConfig.js    # firebase 인스턴스 초기화 파일
-│   package-lock.json    # 정확한 종속성 버전이 기록된 파일로, 일관된 빌드를 보장
-│   package.json         # 프로젝트 종속성 및 스크립트 정의
-├── .gitignore               # Git 무시 파일 목록
-└── README.md                # 프로젝트 개요 및 사용법
 ```
-
-<br/>
+smartfridge/
+│
+├── lib/
+│   ├── main.dart                          # 앱 진입점 및 라우팅 설정
+│   ├── env.dart                           # 환경 변수 및 API 설정
+│   │
+│   ├── Logindata/
+│   │   ├── api_client.dart                # HTTP 요청을 처리하는 API 클라이언트
+│   │   ├── auth_repository.dart           # 인증 관련 비즈니스 로직 (로그인, 회원가입)
+│   │   └── auth_storage.dart              # 토큰 저장소 (Flutter Secure Storage)
+│   │
+│   ├── models/
+│   │   ├── FridgeItem.dart                # 냉장고 식재료 모델
+│   │   ├── CartItem.dart                  # 장바구니 상품 모델
+│   │   ├── CartSummary.dart               # 장바구니 요약 정보 모델
+│   │   └── RecipeItem.dart                # 레시피 정보 모델
+│   │
+│   ├── services/
+│   │   ├── api_service.dart               # 모든 API 요청 관리 (냉장고, 장바구니, 레시피 등)
+│   │   └── FavoriteService.dart           # 찜한 레시피 로컬 저장소 관리
+│   │
+│   ├── screens/
+│   │   ├── LoginScreen/
+│   │   │   ├── LoginScreen.dart           # 이메일/비밀번호 로그인 및 소셜 로그인 (카카오, 구글)
+│   │   │   ├── SignupEmailScreen.dart     # 회원가입 - 이메일 입력 및 중복 확인
+│   │   │   ├── SignupPasswordScreen.dart  # 회원가입 - 비밀번호 입력
+│   │   │   ├── SignupPasswordConfirmScreen.dart  # 회원가입 - 비밀번호 확인
+│   │   │   ├── SignupNicknameScreen.dart  # 회원가입 - 닉네임 입력
+│   │   │   ├── SocialNicknameScreen.dart  # 소셜 로그인 후 닉네임 입력
+│   │   │   └── validators.dart            # 입력 필드 유효성 검사 및 에러 메시지
+│   │   │
+│   │   ├── HomeScreen/
+│   │   │   ├── HomeScreen.dart            # 홈 화면 - 냉장고/냉동고 요약 및 추천 레시피
+│   │   │   └── RecomendRecipeScreen.dart  # 추천 레시피 상세 정보 화면
+│   │   │
+│   │   ├── RefrigeratorScreen/
+│   │   │   ├── RefrigeratorScreen.dart    # 냉장고/냉동고 식재료 목록 및 관리
+│   │   │   └── AddFridgeItemScreen.dart   # 냉장고에 식재료 추가하는 바텀시트
+│   │   │
+│   │   ├── CartScreen/
+│   │   │   ├── CartScreen.dart            # 장바구니 목록 및 카테고리별 정렬
+│   │   │   └── GoogleMapScreen.dart       # 근처 마트 찾기 (Google Maps API)
+│   │   │
+│   │   ├── RecipeScreen/
+│   │   │   ├── RecipeScreen.dart          # 레시피 목록 및 AI 커스텀 추천
+│   │   │   ├── RecipeDetailScreen.dart    # 레시피 상세 정보
+│   │   │   ├── CookingGuideScreen.dart    # 단계별 조리 가이드
+│   │   │   └── AIChatScreen.dart          # AI 요리 챗봇 (요리 팁 및 대화)
+│   │   │
+│   │   └── MypageScreen/
+│   │       ├── MypageScreen.dart          # 마이페이지 - 프로필, 알림 설정, 정보
+│   │       ├── EditProfileScreen.dart     # 프로필 수정 (닉네임, 전화번호, 자기소개)
+│   │       └── FavoriteScreen.dart        # 찜한 레시피 목록
+│   │
+│   ├── Widget/
+│   │   └── BottomIcon/
+│   │       └── Bottom_Icon_Bar.dart       # 하단 네비게이션 바
+```
 <br/>
 
 # 6.2 프로젝트 구조 (백엔드)
@@ -293,6 +331,7 @@ app/
 
 
 <br/><br/>
+
 
 
 
