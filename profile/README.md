@@ -19,7 +19,7 @@
 # 2. Team Members (팀원 및 팀 소개)
 | 구자혁 | 지경태 | 류호찬 | 허성재 |
 |:------:|:------:|:------:|:------:|
-| <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="구자혁" width="150"> | <img src="https://github.com/user-attachments/assets/4324d121-48f1-44c5-a26f-e5e927ff97bd" alt="지경태" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="류호찬" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="허성재" width="150"> |
+| <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="구자혁" width="150"> | <img src="https://github.com/user-attachments/assets/c770c42b-4722-4207-a274-e335cb7c2d8c" alt="지경태" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="류호찬" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="허성재" width="150"> |
 | BE | BE | FE | FE |
 | [GitHub](https://github.com/JaHyeok2002) | [GitHub](https://github.com/JiKyeongtae) | [GitHub](https://github.com/ryuhochan0406) | [GitHub](https://github.com/SJ01-max) |
 
@@ -54,7 +54,7 @@
 |  |  |  |
 |-----------------|-----------------|-----------------|
 | 구자혁    |  <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="구자혁" width="100"> | <ul><li>회원가입, 로그인 구현</li><li>냉장/냉동고 기능 구현</li><li>장바구니 기능 구현</li></ul>     |
-| 지경태   |  <img src="https://github.com/user-attachments/assets/4324d121-48f1-44c5-a26f-e5e927ff97bd" alt="지경태" width="100">| <ul><li>홈 화면 기능 구현</li><li>AI레시피 추천 기능 구현</li><li>마이페이지 기능 구현</li></ul> |
+| 지경태   |  <img src="https://github.com/user-attachments/assets/c770c42b-4722-4207-a274-e335cb7c2d8c" alt="지경태" width="100">| <ul><li>홈 화면 기능 구현</li><li>AI레시피 추천 기능 구현</li><li>마이페이지 기능 구현</li></ul> |
 | 류호찬   |  <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="류호찬" width="100">    |<ul><li>주요 화면 UI/UX 설계</li><li>화면별 UI 컴포넌트 개발</li><li>앱 디자인 시스템 구축</li><li>네비게이션 구조 및 사용자 흐름 설계</li><li>지도 화면 UI 개발 및 마커/경로 표시 기능 구현</li></ul>  |
 | 허성재    |  <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="허성재" width="100">    |<ul><li>주요 화면 UI/UX 설계</li><li>화면별 UI 컴포넌트 개발</li><li>앱 디자인 시스템 구축</li><li>네비게이션 구조 및 사용자 흐름 설계</li></ul>  |
 
@@ -331,6 +331,7 @@ app/
 
 
 <br/><br/>
+
 
 
 
